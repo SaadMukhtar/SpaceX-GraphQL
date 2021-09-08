@@ -26,7 +26,7 @@ export default function App() {
     <>
       <div>
         <h1>SpaceX Launches</h1>
-        <h2>Past 10 Launches</h2>
+        <h2>Past 109 Launches</h2>
         <table className="table table-hover">
           <thead>
             <tr>
